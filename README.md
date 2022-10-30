@@ -1,6 +1,6 @@
 # Frequent Pattern Growth Algorithm
 
-I used a total of 13 datasets to validate the algorithm (from UC Irvine repository). 
+I used a total of 13 datasets(from UC Irvine repository) to validate the algorithm and visualized them using pyplot. 
 
 Key observation: As the minimum support value increases the time taken by the algo decreases. It implies that, with a lower support the fp-algo must run the mining for the bigger conditional datasets.
 
