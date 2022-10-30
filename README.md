@@ -1,6 +1,5 @@
 # Frequent Pattern Growth Algorithm
 
-## Implemented from scratch using python.
 
 Steps included in this algorithm:
  1) Construct FP tree
